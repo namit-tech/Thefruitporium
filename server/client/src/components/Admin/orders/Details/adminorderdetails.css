@@ -1,0 +1,118 @@
+.order-head-print {
+  position: relative;
+  left: 20%;
+  top: 75px;
+  width: 75vw;
+  display: flex;
+  justify-content: space-between;
+}
+
+.order-head-print p {
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+.order-head-print button {
+  background-color: white;
+  border: 1px solid gray;
+  width: 5vw;
+  height: 7vh;
+  border-radius: 15px;
+}
+
+.order-details-info {
+  width: 47vw;
+  height: auto;
+  background: white;
+  color: black;
+  position: relative;
+  left: 20%;
+  top: 90px;
+  padding: 20px;
+  border-radius: 15px;
+  box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.15);
+}
+
+.details-info {
+  background-color: #e5e7eb;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  margin-bottom: 20px;
+  border-radius: 15px;
+}
+
+.order-product-info {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.order-product-info img {
+  width: 5vw;
+  border-radius: 15px;
+}
+.payment-order-pricing {
+  width: 47vw;
+  height: auto;
+  background: white;
+  color: black;
+  position: relative;
+  left: 20%;
+  top: 120px;
+  padding: 20px;
+  border-radius: 15px;
+  box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.15);
+}
+
+.payment-order-head {
+  display: flex;
+  gap: 20px;
+}
+
+.payment-order-head p {
+  background-color: aquamarine;
+  color: green;
+  border-radius: 5px;
+  padding: 3px;
+  font-size: 0.8rem;
+}
+
+.gray-span {
+  color: gray;
+}
+
+.text-amount {
+  display: flex;
+  justify-content: space-between;
+  font-weight: 600;
+}
+
+.customer-order-info {
+  width: 27vw;
+  height: auto;
+  background: white;
+  color: black;
+  position: relative;
+  left: 70%;
+  top: -380px;
+  padding: 20px;
+  border-radius: 15px;
+  box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.15);
+}
+
+.customer-order-info p {
+  color: gray;
+}
+
+.mail-phone {
+  display: flex;
+  flex-direction: row;
+  align-items: baseline;
+  gap: 20px;
+  font-size: 1.1rem;
+}
+
+.customer-name {
+  line-height: 1rem;
+}

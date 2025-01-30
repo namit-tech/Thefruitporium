@@ -1,0 +1,130 @@
+[{
+  "_id": {
+    "$oid": "674adff762dbfcc9da844b83"
+  },
+  "userId": "aef4fc6e-74cb-43b0-904f-00e5862e5ffd",
+  "uCredentials": {
+    "uEmail": "jamit773@gmail.com"
+  },
+  "uProfile": {
+    "uName": "Sonia Jai",
+    "uPhone": 9350862588
+  },
+  "uAddress": {
+    "uZipCode": 110035,
+    "uHouseNumber": 3057,
+    "uArea": "delhi",
+    "uCity": "Delhi Division"
+  },
+  "createdAt": {
+    "$date": "2024-11-30T09:50:47.639Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-28T15:19:11.885Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674ae0f362dbfcc9da844c54"
+  },
+  "userId": "8371b4e3-8cbd-40d8-8116-059a757ce75b",
+  "uCredentials": {
+    "uEmail": "satyan@gmil.com"
+  },
+  "uProfile": {
+    "uName": "satyan",
+    "uPhone": 9650973731
+  },
+  "uAddress": {
+    "uZipCode": null,
+    "uHouseNumber": null,
+    "uArea": "delhi",
+    "uCity": "NORTH EAST DELHI"
+  },
+  "createdAt": {
+    "$date": "2024-11-30T09:55:00.007Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-30T09:55:00.007Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677cf8972bea804227c47be0"
+  },
+  "userId": "24f9b996-6ce7-456c-b593-a78df4811fdc",
+  "uCredentials": {
+    "uEmail": "jnamit172@gmail.com"
+  },
+  "uProfile": {
+    "uName": "Namit Jain",
+    "uPhone": 9212707761
+  },
+  "uAddress": {
+    "uZipCode": 26454,
+    "uHouseNumber": 305332,
+    "uArea": "chandar nagr",
+    "uCity": "ftuhbjbk"
+  },
+  "createdAt": {
+    "$date": "2025-01-07T09:49:11.479Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-16T15:27:02.307Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678e0a9c2591e1d351d2852d"
+  },
+  "userId": "d087613c-b3f9-4909-81b0-2c7af11d8870",
+  "uCredentials": {
+    "uEmail": "jasmit172@gmail.com"
+  },
+  "uProfile": {
+    "uName": "Asmit Jain",
+    "uPhone": 1234567890
+  },
+  "uAddress": {
+    "uZipCode": null,
+    "uHouseNumber": null,
+    "uArea": "rajastham",
+    "uCity": "jaipur"
+  },
+  "createdAt": {
+    "$date": "2025-01-20T08:34:36.891Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-20T08:34:36.891Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678e0ac72591e1d351d28530"
+  },
+  "userId": "ede1fdc3-d543-407e-94f9-6e84934ee218",
+  "uCredentials": {
+    "uEmail": "tanij@gmail.com"
+  },
+  "uProfile": {
+    "uName": "tanishq",
+    "uPhone": 9315587450
+  },
+  "uAddress": {
+    "uZipCode": null,
+    "uHouseNumber": null,
+    "uArea": "mumbai",
+    "uCity": "mumbai"
+  },
+  "createdAt": {
+    "$date": "2025-01-20T08:35:19.722Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-20T08:35:19.722Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,35 @@
+.main-product {
+  padding: 20px;
+  font-size: 1.2rem;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  margin: 25px 85px;
+}
+
+span {
+  font-weight: 900;
+}
+
+.product-head {
+  text-align: center;
+  font-weight: 900;
+}
+
+.product-section {
+  margin-top: 30px;
+}
+
+.product-section h3 {
+  font-weight: 900;
+}
+
+.product-section p {
+  margin-top: 20px;
+}
+
+.product-section:first-of-type {
+  margin-top: 20px;
+}
+
+.Contact-info h3 {
+  font-weight: 900;
+}

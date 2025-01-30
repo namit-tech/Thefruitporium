@@ -1,0 +1,42 @@
+.data {
+  padding: 12px 10px;
+  margin: 25px 11px;
+  width: 16vw;
+  height: 50vh;
+  transition: transform 0.3s ease;
+  overflow: hidden; /* Ensure content doesn't overflow */
+  position: relative;
+}
+
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0px 90px;
+}
+
+.data-img {
+  width: 8.5vw;
+  height: 25vh;
+  transition: opacity 0.3s ease;
+  position: relative;
+}
+
+.data-img-hover {
+  position: absolute;
+  transform: scale(1.05); 
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.data:hover .data-img-hover {
+  opacity: 1; /* Show the hover image */
+}
+
+.data:hover .data-img {
+  opacity: 0; /* Hide the original image */
+}
+

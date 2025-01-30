@@ -1,0 +1,104 @@
+[
+  {
+    "Sno": 1,
+    "Name": "Apple",
+    "Category": ["Traditional Fruits", "Apple Farm"],
+    "Description": "A versatile fruit with crisp texture and sweet-tart flavor. Apples are perfect for eating raw, baking into desserts, or making juices.",
+    "Origin": "Kashmir, Shimla",
+    "Season": "Year-round",
+    "by_size": [
+      { "size": "1 kg", "price": 150, "pDiscount": 120 },
+      { "size": "2 kg", "price": 300, "pDiscount": 250 }
+    ],
+    "Quantity": "1 kg", 
+    "Prices_per_unit": "Subject to market fluctuations",
+    "Shelf_Life": "1 - 6 Months",
+    "Cold_Storage": "Required",
+    "Nutrient_value": "Apples are rich in dietary fiber and vitamin C, promoting good digestion and immune health.",
+    "Storage_and_Uses": "Store apples in a cool, dry place or refrigerate to extend freshness. Use them for snacking, cooking, or making cider.",
+    "Proxy_Images_uploaded": "No",
+    "Photoshoot_done": "Not"
+  },
+  {
+    "Sno": 2,
+    "Name": "Apple Ber (Jujube)",
+    "Category": ["Traditional Fruits"],
+    "Description": "A small, sweet fruit with a crisp texture, popular for its refreshing flavor.",
+    "Origin": "India",
+    "Season": "Winter",
+    "by_size": [
+      { "size": "500 grams", "price": 70, "pDiscount": 50 },
+      { "size": "1 kg", "price": 140, "pDiscount": 120 }
+    ],
+    "Quantity": "500 grams",
+    "Prices_per_unit": "50 - 70 Rs.",
+    "Shelf_Life": "2 - 4 Days",
+    "Cold_Storage": "Not Required",
+    "Nutrient_value": "Rich in antioxidants and vitamin C, helps boost immunity and improve skin health.",
+    "Storage_and_Uses": "Store in a cool place. Ideal for fresh consumption or making preserves.",
+    "Proxy_Images_uploaded": "No",
+    "Photoshoot_done": "Not"
+  },
+  {
+    "Sno": 3,
+    "Name": "Apricot",
+    "Category": ["Exotic Fruits"],
+    "Description": "Soft and juicy fruit with a sweet and slightly tangy flavor. Perfect for snacking or desserts.",
+    "Origin": "Himalayan Region",
+    "Season": "Summer",
+    "by_size": [
+      { "size": "500 grams", "price": 200, "pDiscount": 180 },
+      { "size": "1 kg", "price": 400, "pDiscount": 350 }
+    ],
+    "Quantity": "500 grams",
+    "Prices_per_unit": "Varies by region",
+    "Shelf_Life": "2 - 3 Days",
+    "Cold_Storage": "Not Required",
+    "Nutrient_value": "High in vitamins A and C, supports skin health and vision.",
+    "Storage_and_Uses": "Store in a refrigerator. Great for eating fresh or drying for long-term storage.",
+    "Proxy_Images_uploaded": "No",
+    "Photoshoot_done": "Not"
+  },
+  {
+    "Sno": 4,
+    "Name": "Avocado",
+    "Category": ["Exotic Fruits"],
+    "Description": "Creamy-textured fruit with a mild flavor. A favorite for spreads, salads, and smoothies.",
+    "Origin": "Mexico",
+    "Season": "Year-round",
+    "by_size": [
+      { "size": "1 piece", "price": 120, "pDiscount": 100 },
+      { "size": "2 pieces", "price": 240, "pDiscount": 200 }
+    ],
+    "Quantity": "1 piece",
+    "Prices_per_unit": "Subject to market fluctuations",
+    "Shelf_Life": "7 - 10 Days",
+    "Cold_Storage": "Required",
+    "Nutrient_value": "Rich in healthy fats, potassium, and fiber, supports heart health and digestion.",
+    "Storage_and_Uses": "Store in a cool place until ripe, then refrigerate. Ideal for guacamole, spreads, or salads.",
+    "Proxy_Images_uploaded": "No",
+    "Photoshoot_done": "Not"
+  },
+  {
+    "Sno": 5,
+    "Name": "Banana",
+    "Category": ["Traditional Fruits"],
+    "Description": "A soft and sweet fruit, perfect for snacking, smoothies, or baking.",
+    "Origin": "India",
+    "Season": "Year-round",
+    "by_size": [
+      { "size": "1 dozen", "price": 100, "pDiscount": 90 },
+      { "size": "2 dozen", "price": 200, "pDiscount": 180 }
+    ],
+    "Quantity": "1 dozen",
+    "Prices_per_unit": "70 - 100 Rs.",
+    "Shelf_Life": "2 - 3 Days",
+    "Cold_Storage": "Not Required",
+    "Nutrient_value": "High in potassium and energy, supports muscle function and hydration.",
+    "Storage_and_Uses": "Store at room temperature. Use for snacking, smoothies, or baking.",
+    "Proxy_Images_uploaded": "No",
+    "Photoshoot_done": "Not"
+  }
+]
+
+  

@@ -1,0 +1,61 @@
+.security-password {
+  position: absolute;
+  left: 40%;
+  top: 150px;
+}
+
+.passwords {
+  display: flex;
+  gap: 30px;
+}
+
+.passwords-input {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+.passwords-input input {
+  width: 25vw;
+  height: 7vh;
+  border-radius: 10px;
+  background-color: #e5e7eb;
+}
+
+.Update-security-btn {
+  background-color: blue;
+  border: none;
+  color: white;
+  border-radius: 15px;
+  padding: 13px;
+  margin-top: 20px;
+}
+
+.factor-auth {
+  margin-top: 20px;
+}
+
+.google-signin {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
+
+.google-signin img {
+  width: 3vw;
+  height: 6vh;
+  margin-bottom: 15px;
+}
+
+.auth-btn {
+  background-color: blue;
+  border: none;
+  color: white;
+  border-radius: 15px;
+  padding: 13px;
+}
+
+.google-text {
+  margin: 10px 0px;
+}

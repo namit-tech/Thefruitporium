@@ -1,0 +1,379 @@
+[
+  {
+    "Sno.": 1,
+    "Name": "Washington Apple",
+    "Category": ["Traditional fruits", "Apple Farm"],
+    "Description": "The Washington Apple is a crisp, juicy variety known for its sweet-tart flavor and vibrant red color. Grown in the fertile orchards of Washington State, these apples are perfect for snacking, baking, and adding a refreshing crunch to salads. Enjoy the taste of the Pacific Northwest with every bite!",
+    "Origin": "U.S.A (Washington)",
+    "Season": "12 Months",
+    "by_size": [
+      { "size": "500 gram/piece", "price": 260, "pDiscount": 220 },
+      { "size": "1 kg/piece", "price": 460, "pDiscount": 420 }
+    ],
+    "Prices (approx) / Units": "According to the Market (Fluctuats Daily)",
+    "Shelf Life": "5-7 Days",
+    "Cold Storage required or not": "Required",
+    "Nutrient Value & Health Benefits": "Washington apples are a healthy, low-calorie snack, rich in fiber and Vitamin C. They contain antioxidants that protect against chronic diseases, support heart health, aid digestion, and boost the immune system. Perfect for weight management and overall wellness, these apples are a nutritious addition to any diet.",
+    "Storage and Uses": "Store Washington apples in the refrigerator to keep them fresh and crisp for weeks. Enjoy them as a fresh snack, sliced in salads, baked into pies, or cooked into sauces\u2014perfect for both sweet and savory dishes.",
+    "Proxy Images uploaded": "No",
+    "Photoshoot done or not": "Not"
+  },
+  {
+    "Sno.": 2,
+    "Name": "Royal Gala Apple ",
+    "Category": ["Traditional Fruits", "Apple Farm"],
+    "Description": "The Royal Gala apple is known for its sweet flavor, crisp texture, and vibrant red-orange skin with yellow undertones. This apple is perfect for snacking, adding to salads, or baking, offering a juicy and mildly sweet taste that everyone loves.",
+    "Origin": "New Zealand",
+    "Season": "12 Months",
+    "by_size": [
+      { "size": "500 gram/piece", "price": 260, "pDiscount": 220 },
+      { "size": "1 kg/piece", "price": 460, "pDiscount": 420 }
+    ],
+    "Prices (approx) / Units": "According to the Market (Fluctuats Daily)",
+    "Shelf Life": "5-7 Days",
+    "Cold Storage required or not": "Required",
+    "Nutrient Value & Health Benefits": "Royal Gala apples are a low-calorie, nutrient-rich snack, offering about 80 calories per apple. They're high in dietary fiber, which aids digestion, and provide a good amount of Vitamin C for immune support. These apples are also rich in antioxidants that help protect against chronic diseases, making them a delicious and healthy choice for everyday consumption.",
+    "Storage and Uses": "Store Royal Gala apples in the refrigerator to keep them fresh and crisp for weeks. They\u2019re perfect for snacking, adding to salads, or baking into desserts, thanks to their sweet flavor and versatility.",
+    "Proxy Images uploaded": "No",
+    "Photoshoot done or not": "Not"
+  },
+  {
+    "Sno.": 3,
+    "Name": "Red Delicious Apple",
+    "Category": ["Traditional Fruits", "Apple Farm"],
+    "Description": "The Red Delicious apple is celebrated for its deep red color, sweet flavor, and crisp texture. With its classic apple shape and juicy flesh, it\u2019s a favorite for snacking and adding a touch of sweetness to salads and desserts.",
+    "Origin": "Turkey",
+    "Season": "12 Months",
+    "by_size": [
+      { "size": "500 gram/piece", "price": 260, "pDiscount": 220 },
+      { "size": "1 kg/piece", "price": 460, "pDiscount": 420 }
+    ],
+    "Prices (approx) / Units": "According to the Market (Fluctuats Daily)",
+    "Shelf Life": "5-7 Days",
+    "Cold Storage required or not": "Required",
+    "Nutrient Value & Health Benefits": "Red Delicious apples are a low-calorie, nutrient-dense choice, offering about 80 calories per apple. They provide dietary fiber to aid digestion and antioxidants that help combat oxidative stress. Rich in Vitamin C, these apples support immune health and overall wellness.",
+    "Storage and Uses": "Store Red Delicious apples in the refrigerator to keep them fresh and crisp for several weeks. Enjoy them fresh as a snack, or add them to salads and desserts for a touch of sweetness and color.",
+    "Proxy Images uploaded": "No",
+    "Photoshoot done or not": "Not"
+  },
+  {
+    "Sno.": 4,
+    "Name": "Queen Apple",
+    "Category": ["Traditional Fruits", "Apple Farm"],
+    "Description": "The Queen apple boasts a crisp, juicy texture and a delightful sweet-tart flavor with a hint of honey. Its vibrant, greenish-yellow skin and firm flesh make it perfect for snacking, baking, and adding a refreshing touch to various dishes.",
+    "Origin": "New Zealand",
+    "Season": "12 Months",
+    "by_size": [
+      { "size": "500 gram/piece", "price": 260, "pDiscount": 220 },
+      { "size": "1 kg/piece", "price": 460, "pDiscount": 420 }
+    ],
+    "Prices (approx) / Units": "According to the Market (Fluctuats Daily)",
+    "Shelf Life": "5-7 Days",
+    "Cold Storage required or not": "Required",
+    "Nutrient Value & Health Benefits": "Queen apples are a low-calorie, nutritious fruit, offering about 90 calories per apple. They are high in dietary fiber and Vitamin C, which support digestion and immune health. Rich in antioxidants, they help protect against oxidative stress and promote overall wellness.",
+    "Storage and Uses": "Store Queen apples in the refrigerator to maintain their freshness and crispness for several weeks. They are ideal for fresh snacking, adding to salads, or incorporating into baked goods and savory dishes for a burst of flavor.",
+    "Proxy Images uploaded": "No",
+    "Photoshoot done or not": "Not"
+  },
+  {
+    "Sno.": 5,
+    "Name": "Fuji Apple",
+    "Category": ["Traditional Fruits", "Apple Farm"],
+    "Description": "The Fuji apple is renowned for its exceptionally sweet flavor and crisp texture. With its vibrant red and yellow skin, this apple offers a juicy, refreshing bite, making it perfect for snacking, baking, and adding a delightful touch to salads.",
+    "Origin": "China/U.S.A",
+    "Season": "12 Months",
+    "by_size": [
+      { "size": "500 gram/piece", "price": 260, "pDiscount": 220 },
+      { "size": "1 kg/piece", "price": 460, "pDiscount": 420 }
+    ],
+    "Prices (approx) / Units": "According to the Market (Fluctuats Daily)",
+    "Shelf Life": "5-7 Days",
+    "Cold Storage required or not": "Required",
+    "Nutrient Value & Health Benefits": "Fuji apples are a nutrient-rich fruit, providing about 100 calories per apple. They are high in dietary fiber and Vitamin C, supporting digestive health and boosting the immune system. Packed with antioxidants, they help protect against oxidative damage and promote overall well-being.",
+    "Storage and Uses": "Store Fuji apples in the refrigerator to keep them fresh and crisp for several weeks. Enjoy them fresh as a snack, in salads, or baked into desserts for their sweet flavor and juicy texture.",
+    "Proxy Images uploaded": "No",
+    "Photoshoot done or not": "Not"
+  },
+  {
+    "Sno.": 6,
+    "Name": "Pink Lady",
+    "Category": ["Traditional Fruits", "Apple Farm"],
+    "Description": "The Pink Lady apple is known for its crisp texture, vibrant pink skin, and tangy-sweet flavor. With its firm flesh and refreshing taste, it's perfect for snacking, adding to salads, or incorporating into both sweet and savory dishes.",
+    "Origin": "Australia",
+    "by_size": [
+      { "size": "500 gram/piece", "price": 260, "pDiscount": 220 },
+      { "size": "1 kg/piece", "price": 460, "pDiscount": 420 }
+    ],
+    "Prices (approx) / Units": "According to the Market (Fluctuats Daily)",
+    "Shelf Life": "5-7 Days",
+    "Cold Storage required or not": "Required",
+    "Nutrient Value & Health Benefits": "Pink Lady apples offer about 90 calories per apple and are rich in dietary fiber and Vitamin C. They support digestive health, boost the immune system, and provide antioxidants that help protect against oxidative stress and promote overall wellness.",
+    "Storage and Uses": "Store Pink Lady apples in the refrigerator to keep them fresh and crisp for several weeks. They\u2019re ideal for fresh snacking, adding to salads, or using in both sweet and savory dishes for a crisp, tangy flavor.",
+    "Proxy Images uploaded": "No",
+    "Photoshoot done or not": "Not"
+  },
+  {
+    "Sno.": 7,
+    "Name": "Granny Smith",
+    "Category": ["Traditional Fruits", "Apple Farm"],
+    "Description": "The Granny Smith apple is famous for its tart, tangy flavor and crisp texture. With its bright green skin and firm flesh, it\u2019s perfect for adding a zesty kick to salads, baking into pies, or enjoying as a refreshing snack.",
+    "Origin": "New Zealand",
+
+    "by_size": [
+      { "size": "500 gram/piece", "price": 260, "pDiscount": 220 },
+      { "size": "1 kg/piece", "price": 460, "pDiscount": 420 }
+    ],
+    "Prices (approx) / Units": "According to the Market (Fluctuats Daily)",
+    "Shelf Life": "5-7 Days",
+    "Cold Storage required or not": "Required",
+    "Nutrient Value & Health Benefits": "Granny Smith apples provide about 80 calories per apple and are high in dietary fiber and Vitamin C. They support digestive health, boost the immune system, and offer antioxidants that help protect against oxidative stress and promote overall wellness.",
+    "Storage and Uses": "Store Granny Smith apples in the refrigerator to keep them fresh and crisp for several weeks. They are perfect for fresh snacking, adding to salads for a tart flavor, or using in baking to enhance pies and other desserts.",
+    "Proxy Images uploaded": "No",
+    "Photoshoot done or not": "Not"
+  },
+  {
+    "Sno.": 8,
+    "Name": "Golden Delicious",
+    "Category": ["Traditional Fruits", "Apple Farm"],
+    "Description": "The Golden Delicious apple is known for its sweet, mellow flavor and tender, juicy texture. With its golden-yellow skin, it\u2019s perfect for snacking, adding to salads, or using in both sweet and savory dishes for a subtle, flavorful touch.",
+    "Origin": "New Zealand",
+    "by_size": [
+      { "size": "500 gram/piece", "price": 260, "pDiscount": 220 },
+      { "size": "1 kg/piece", "price": 460, "pDiscount": 420 }
+    ],
+    "Prices (approx) / Units": "According to the Market (Fluctuats Daily)",
+    "Shelf Life": "5-7 Days",
+    "Cold Storage required or not": "Required",
+    "Nutrient Value & Health Benefits": "Golden Delicious apples offer about 80 calories per apple and are a good source of dietary fiber and Vitamin C. They aid in digestion, support immune health, and provide antioxidants that help combat oxidative stress and support overall wellness.",
+    "Storage and Uses": "Store Golden Delicious apples in the refrigerator to maintain their freshness and crispness for several weeks. Enjoy them fresh as a snack, in salads, or incorporated into baked goods and savory dishes for their sweet flavor and tender texture.",
+    "Proxy Images uploaded": "No",
+    "Photoshoot done or not": "Not"
+  },
+  {
+    "Sno.": 9,
+    "Name": "Flash Gala",
+    "Category": ["Traditional Fruits", "Apple Farm"],
+    "Description": "The Flash Gala apple features a crisp texture and a sweet, juicy flavor with a bright red, streaked skin. Ideal for snacking, adding to salads, or using in desserts, it offers a delightful burst of sweetness and freshness in every bite.",
+    "Origin": "New Zealand",
+    "by_size": [
+      { "size": "500 gram/piece", "price": 260, "pDiscount": 220 },
+      { "size": "1 kg/piece", "price": 460, "pDiscount": 420 }
+    ],
+    "Prices (approx) / Units": "According to the Market (Fluctuats Daily)",
+    "Shelf Life": "5-7 Days",
+    "Cold Storage required or not": "Required",
+    "Nutrient Value & Health Benefits": "Flash Gala apples provide about 85 calories per apple and are high in dietary fiber and Vitamin C. They support digestion, boost the immune system, and offer antioxidants that help protect against oxidative stress, promoting overall health and wellness.",
+    "Storage and Uses": "Store Flash Gala apples in the refrigerator to keep them fresh and crisp for several weeks. They\u2019re great for fresh snacking, adding to salads, or using in desserts for their sweet flavor and juicy texture.",
+    "Proxy Images uploaded": "No",
+    "Photoshoot done or not": "Not"
+  },
+  {
+    "Sno.": 10,
+    "Name": "Royal Gala Apple (Indian) ",
+    "Category": ["Traditional Fruits", "Apple Farm"],
+    "Description": "The Royal Gala Apple is a popular Indian variety known for its crisp texture and sweet, aromatic flavor. With its vibrant red skin and juicy, refreshing bite, it\u2019s perfect for snacking or adding a touch of sweetness to salads and desserts. Ideal for those seeking a deliciously satisfying apple experience.",
+    "Origin": "India",
+    "by_size": [
+      { "size": "500 gram/piece", "price": 260, "pDiscount": 220 },
+      { "size": "1 kg/piece", "price": 460, "pDiscount": 420 }
+    ],
+    "Prices (approx) / Units": "According to the Market (Fluctuats Daily)",
+    "Shelf Life": "5-7 Days",
+    "Cold Storage required or not": "Required",
+    "Nutrient Value & Health Benefits": "Royal Gala Apples are rich in essential nutrients including dietary fiber, vitamins A and C, and antioxidants. They support heart health by aiding in cholesterol management and promoting digestive health due to their fiber content. Additionally, the antioxidants in these apples help combat oxidative stress, supporting overall wellness. Enjoy them as a tasty way to boost your daily nutrient intake!",
+    "Storage and Uses": "Store in a cool, dry place or in the refrigerator for up to two weeks. Perfect for snacking, they also enhance salads, desserts, and baked goods with their sweet flavor and crisp texture.",
+    "Proxy Images uploaded": "No",
+    "Photoshoot done or not": "Not"
+  },
+  {
+    "Sno.": 11,
+    "Name": "Red Delicious Apple (Indian)",
+    "Category": ["Traditional Fruits", "Apple Farm"],
+    "Description": "The Red Delicious Apple is a beloved Indian variety known for its deep red skin and sweet, mellow flavor. With its crisp, juicy texture and aromatic taste, it's a favorite choice for a refreshing snack or a vibrant addition to salads and fruit platters. Ideal for those who enjoy a classic, sweet apple experience.",
+    "Origin": "India",
+    "by_size": [
+      { "size": "500 gram/piece", "price": 260, "pDiscount": 220 },
+      { "size": "1 kg/piece", "price": 460, "pDiscount": 420 }
+    ],
+    "Prices (approx) / Units": "According to the Market (Fluctuats Daily)",
+    "Shelf Life": "5-7 Days",
+    "Cold Storage required or not": "Required",
+    "Nutrient Value & Health Benefits": "Red Delicious Apples are rich in dietary fiber, vitamins A and C, and antioxidants. They support heart health, aid digestion, and help protect against oxidative damage. Enjoying these apples can contribute to overall wellness and a balanced diet.",
+    "Storage and Uses": "Store in a cool, dry place or in the refrigerator for up to two weeks. Ideal for snacking, they also enhance salads, desserts, and fruit platters with their sweet, crunchy texture and vibrant color.",
+    "Proxy Images uploaded": "No",
+    "Photoshoot done or not": "Not"
+  },
+  {
+    "Sno.": 12,
+    "Name": "Royal Delicious (Indian)",
+    "Category": ["Traditional Fruits", "Apple Farm"],
+    "Description": "The Royal Delicious Apple is a premium Indian variety known for its stunning red skin and exceptionally sweet, crisp flavor. With a juicy texture and delightful aroma, it's an excellent choice for snacking or adding a touch of sweetness to salads and desserts. Ideal for those who enjoy a flavorful and refreshing apple experience.",
+    "Origin": "India",
+    "by_size": [
+      { "size": "500 gram/piece", "price": 260, "pDiscount": 220 },
+      { "size": "1 kg/piece", "price": 460, "pDiscount": 420 }
+    ],
+    "Prices (approx) / Units": "According to the Market (Fluctuats Daily)",
+    "Shelf Life": "5-7 Days",
+    "Cold Storage required or not": "Required",
+    "Nutrient Value & Health Benefits": "Royal Delicious Apples are rich in dietary fiber, vitamins A and C, and antioxidants. They support heart health, aid digestion, and help protect against oxidative stress, contributing to overall well-being and a balanced diet.",
+    "Storage and Uses": "Store in a cool, dry place or in the refrigerator for up to two weeks. Perfect for snacking, they also enhance salads, desserts, and fruit platters with their sweet, crunchy texture and vibrant color.",
+    "Proxy Images uploaded": "No",
+    "Photoshoot done or not": "Not"
+  },
+  {
+    "Sno.": 13,
+    "Name": "Granny Smith (Indian)",
+    "Category": ["Traditional Fruits", "Apple Farm"],
+    "Description": "The Granny Smith Apple is a tart and tangy Indian variety known for its crisp texture and vibrant green skin. With a refreshing, acidic flavor, it\u2019s perfect for those who enjoy a more tangy apple. Ideal for snacking, baking, or adding a zesty kick to salads and dishes.",
+    "Origin": "India",
+    "by_size": [
+      { "size": "500 gram/piece", "price": 260, "pDiscount": 220 },
+      { "size": "1 kg/piece", "price": 460, "pDiscount": 420 }
+    ],
+    "Prices (approx) / Units": "According to the Market (Fluctuats Daily)",
+    "Shelf Life": "5-7 Days",
+    "Cold Storage required or not": "Required",
+    "Nutrient Value & Health Benefits": "Granny Smith Apples are rich in dietary fiber, vitamins A and C, and antioxidants. Their high fiber content supports digestive health, while antioxidants help combat oxidative stress. They also contribute to overall wellness and immune function.",
+    "Storage and Uses": "Keep Granny Smith Apples in a cool, dry place or in the refrigerator to maintain their crispness and freshness for up to three weeks. Ideal for snacking, they are also great for baking, making apple pies, or adding a tart contrast to salads and dishes. Their crisp texture and tangy flavor make them a versatile ingredient.",
+    "Proxy Images uploaded": "No",
+    "Photoshoot done or not": "Not"
+  },
+  {
+    "Sno.": 14,
+    "Name": "Golden Delicious (Indian)",
+    "Category": ["Traditional Fruits", "Apple Farm"],
+    "Description": "The Golden Delicious Apple is a sweet and juicy Indian variety with a smooth, golden-yellow skin. Known for its mellow flavor and tender texture, it\u2019s perfect for snacking, adding to salads, or incorporating into baked goods. Ideal for those who enjoy a mildly sweet and versatile apple.",
+    "Origin": "India",
+    "by_size": [
+      { "size": "500 gram/piece", "price": 260, "pDiscount": 220 },
+      { "size": "1 kg/piece", "price": 460, "pDiscount": 420 }
+    ],
+    "Prices (approx) / Units": "According to the Market (Fluctuats Daily)",
+    "Shelf Life": "5-7 Days",
+    "Cold Storage required or not": "Required",
+    "Nutrient Value & Health Benefits": "Golden Delicious Apples are rich in dietary fiber, vitamins A and C, and antioxidants. They support digestive health, boost immune function, and help protect against oxidative stress, contributing to overall well-being.",
+    "Storage and Uses": "Store Golden Delicious Apples in a cool, dry place or in the refrigerator to keep them fresh and crisp for up to two weeks. Ideal for snacking, they also enhance salads, desserts, and baked goods with their sweet flavor and tender texture. Their versatility makes them a great addition to a variety of dishes.",
+    "Proxy Images uploaded": "No",
+    "Photoshoot done or not": "Not"
+  },
+  {
+    "Sno.": 15,
+    "Name": "Banana",
+    "Category": ["banana"],
+    "Description": "The Golden Delicious Apple is a sweet and juicy Indian variety with a smooth, golden-yellow skin. Known for its mellow flavor and tender texture, it\u2019s perfect for snacking, adding to salads, or incorporating into baked goods. Ideal for those who enjoy a mildly sweet and versatile apple.",
+    "Origin": "India",
+    "by_size": [
+      { "size": "500 gram/piece", "price": 260, "pDiscount": 220 },
+      { "size": "1 kg/piece", "price": 460, "pDiscount": 420 }
+    ],
+    "Prices (approx) / Units": "According to the Market (Fluctuats Daily)",
+    "Shelf Life": "5-7 Days",
+    "Cold Storage required or not": "Required",
+    "Nutrient Value & Health Benefits": "Golden Delicious Apples are rich in dietary fiber, vitamins A and C, and antioxidants. They support digestive health, boost immune function, and help protect against oxidative stress, contributing to overall well-being.",
+    "Storage and Uses": "Store Golden Delicious Apples in a cool, dry place or in the refrigerator to keep them fresh and crisp for up to two weeks. Ideal for snacking, they also enhance salads, desserts, and baked goods with their sweet flavor and tender texture. Their versatility makes them a great addition to a variety of dishes.",
+    "Proxy Images uploaded": "No",
+    "Photoshoot done or not": "Not"
+  }
+]
+
+
+
+[
+  {
+    "Sno.": 1,
+    "Name": "Apple",
+    "Category": ["Traditional Fruits", "Apple Farm"],
+    "Description": "A versatile fruit with crisp texture and sweet-tart flavor. Apples are perfect for eating raw, baking into desserts, or making juices.",
+    "Origin": "Kashmir, Shimla",
+    "Season": "Year-round",
+    "by_size": [
+      { "size": "1 kg", "price": 150, "pDiscount": 120 },
+      { "size": "2 kg", "price": 300, "pDiscount": 250 }
+    ],
+    "Prices (approx) / Units": "Subject to market fluctuations",
+    "Shelf Life": "1 - 6 Months",
+    "Cold Storage required or not": "Required",
+    "Nutrient Value & Health Benefits": "Apples are rich in dietary fiber and vitamin C, promoting good digestion and immune health.",
+    "Storage and Uses": "Store apples in a cool, dry place or refrigerate to extend freshness. Use them for snacking, cooking, or making cider.",
+    "Proxy Images uploaded": "No",
+    "Photoshoot done or not": "Not"
+  },
+  {
+    "Sno.": 2,
+    "Name": "Apple Ber (Jujube)",
+    "Category": ["Traditional Fruits"],
+    "Description": "A small, sweet fruit with a crisp texture, popular for its refreshing flavor.",
+    "Origin": "India",
+    "Season": "Winter",
+    "by_size": [
+      { "size": "500 grams", "price": 70, "pDiscount": 50 },
+      { "size": "1 kg", "price": 140, "pDiscount": 120 }
+    ],
+    "Prices (approx) / Units": "50 - 70 Rs.",
+    "Shelf Life": "2 - 4 Days",
+    "Cold Storage required or not": "Not Required",
+    "Nutrient Value & Health Benefits": "Rich in antioxidants and vitamin C, helps boost immunity and improve skin health.",
+    "Storage and Uses": "Store in a cool place. Ideal for fresh consumption or making preserves.",
+    "Proxy Images uploaded": "No",
+    "Photoshoot done or not": "Not"
+  },
+  {
+    "Sno.": 3,
+    "Name": "Apricot",
+    "Category": ["Exotic Fruits"],
+    "Description": "Soft and juicy fruit with a sweet and slightly tangy flavor. Perfect for snacking or desserts.",
+    "Origin": "Himalayan Region",
+    "Season": "Summer",
+    "by_size": [
+      { "size": "500 grams", "price": 200, "pDiscount": 180 },
+      { "size": "1 kg", "price": 400, "pDiscount": 350 }
+    ],
+    "Prices (approx) / Units": "Varies by region",
+    "Shelf Life": "2 - 3 Days",
+    "Cold Storage required or not": "Not Required",
+    "Nutrient Value & Health Benefits": "High in vitamins A and C, supports skin health and vision.",
+    "Storage and Uses": "Store in a refrigerator. Great for eating fresh or drying for long-term storage.",
+    "Proxy Images uploaded": "No",
+    "Photoshoot done or not": "Not"
+  },
+  {
+    "Sno.": 4,
+    "Name": "Avocado",
+    "Category": ["Exotic Fruits"],
+    "Description": "Creamy-textured fruit with a mild flavor. A favorite for spreads, salads, and smoothies.",
+    "Origin": "Mexico",
+    "Season": "Year-round",
+    "by_size": [
+      { "size": "1 piece", "price": 120, "pDiscount": 100 },
+      { "size": "2 pieces", "price": 240, "pDiscount": 200 }
+    ],
+    "Prices (approx) / Units": "Subject to market fluctuations",
+    "Shelf Life": "7 - 10 Days",
+    "Cold Storage required or not": "Required",
+    "Nutrient Value & Health Benefits": "Rich in healthy fats, potassium, and fiber, supports heart health and digestion.",
+    "Storage and Uses": "Store in a cool place until ripe, then refrigerate. Ideal for guacamole, spreads, or salads.",
+    "Proxy Images uploaded": "No",
+    "Photoshoot done or not": "Not"
+  },
+  {
+    "Sno.": 5,
+    "Name": "Banana",
+    "Category": ["Traditional Fruits"],
+    "Description": "A soft and sweet fruit, perfect for snacking, smoothies, or baking.",
+    "Origin": "India",
+    "Season": "Year-round",
+    "by_size": [
+      { "size": "1 dozen", "price": 100, "pDiscount": 90 },
+      { "size": "2 dozen", "price": 200, "pDiscount": 180 }
+    ],
+    "Prices (approx) / Units": "70 - 100 Rs.",
+    "Shelf Life": "2 - 3 Days",
+    "Cold Storage required or not": "Not Required",
+    "Nutrient Value & Health Benefits": "High in potassium and energy, supports muscle function and hydration.",
+    "Storage and Uses": "Store at room temperature. Use for snacking, smoothies, or baking.",
+    "Proxy Images uploaded": "No",
+    "Photoshoot done or not": "Not"
+  }
+]
+

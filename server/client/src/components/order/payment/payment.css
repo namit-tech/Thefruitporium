@@ -1,0 +1,36 @@
+.payment {
+  margin: 80px auto;
+  padding: 20px;
+}
+
+.order-summary {
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.order-details {
+  margin-bottom: 10px;
+}
+
+.order-item {
+  display: flex;
+  justify-content: space-between;
+}
+
+.subtotal,
+.total {
+  margin-top: 10px;
+}
+
+.paynow-btn {
+  background-color: #f37254;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+.paynow-btn:hover {
+  background-color: #f2583b;
+}

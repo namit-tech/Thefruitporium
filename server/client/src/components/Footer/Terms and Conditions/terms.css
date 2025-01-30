@@ -1,0 +1,35 @@
+.main-terms {
+  padding: 20px;
+  font-size: 1.2rem;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  margin: 25px 85px;
+}
+
+span {
+  font-weight: 900;
+}
+
+.terms-head {
+  text-align: center;
+  font-weight: 900;
+}
+
+.terms-section {
+  margin-top: 30px;
+}
+
+.terms-section h3 {
+  font-weight: 900;
+}
+
+.terms-section p {
+  margin-top: 20px;
+}
+
+.terms-section:first-of-type {
+  margin-top: 20px;
+}
+
+.Contact-info h3 {
+  font-weight: 900;
+}

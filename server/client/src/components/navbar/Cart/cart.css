@@ -1,0 +1,46 @@
+.cart-btn {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  justify-items: center;
+  border-radius: 7px;
+  border: 0px;
+  background-color: white;
+  height: 6vh;
+  width: 6vw;
+  margin-top: 17px;
+}
+.cart-btn p {
+  font-size: 15px;
+  margin-top: 17px;
+}
+
+.icons {
+  font-size: 20px;
+  color: black;
+  transition: transform 0.6s ease-in-out;
+  z-index: 44;
+}
+
+.icons:hover {
+  animation: rotate-animation 1s infinite;
+}
+
+@keyframes rotate-animation {
+  0% {
+    transform: rotate(0deg);
+  }
+  25% {
+    transform: rotate(-20deg);
+  }
+  50% {
+    transform: rotate(0deg);
+  }
+  75% {
+    transform: rotate(20deg);
+  }
+  100% {
+    transform: rotate(0deg);
+  }
+}

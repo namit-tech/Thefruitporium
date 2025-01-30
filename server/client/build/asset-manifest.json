@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3b174733.css",
+    "main.js": "/static/js/main.818642c3.js",
+    "static/media/malta.JPG": "/static/media/malta.5e811b1e3722c1e3aa93.JPG",
+    "static/media/anaar.JPG": "/static/media/anaar.aa61d4c4c06337045a7b.JPG",
+    "static/media/pineapple.JPG": "/static/media/pineapple.c193a7fcc10a70c277ca.JPG",
+    "static/media/banana.JPG": "/static/media/banana.01ddc6e51f265fb8e354.JPG",
+    "static/media/papaya.JPG": "/static/media/papaya.d768624f89da0be5f558.JPG",
+    "static/media/boxicons.svg": "/static/media/boxicons.9e2b21b135bc7d4c803f.svg",
+    "static/media/pnglogo.png": "/static/media/pnglogo.c154526e893f642deb8c.png",
+    "static/media/banner.jpg": "/static/media/banner.1da6a792531f412adc30.jpg",
+    "static/media/boxicons.eot": "/static/media/boxicons.65a8ce52fc5427e8f94d.eot",
+    "static/media/boxicons.woff": "/static/media/boxicons.d12afc36557395143e4b.woff",
+    "static/media/boxicons.ttf": "/static/media/boxicons.db9ddb1898dbd76badca.ttf",
+    "static/media/boxicons.woff2": "/static/media/boxicons.df635aaf04cd75132f62.woff2",
+    "static/media/THE FRUITPORIUM LOGO.png": "/static/media/THE FRUITPORIUM LOGO.ea47feb10d7685ecf775.png",
+    "static/media/fruitporiumonlylogo.png": "/static/media/fruitporiumonlylogo.42c7171e189a7682c4df.png",
+    "static/media/fssai8862.jpg": "/static/media/fssai8862.ab5cd181f7a082286257.jpg",
+    "static/media/dovebanner.webp": "/static/media/dovebanner.c42396c118d5db2a9d8d.webp",
+    "static/media/smallonr.avif": "/static/media/smallonr.014540ca68909158f5c3.avif",
+    "static/media/smalltwo.avif": "/static/media/smalltwo.ed8f9293d4921b6e7056.avif",
+    "static/media/guarantee-certificate.png": "/static/media/guarantee-certificate.8ad830f85452b39bb334.png",
+    "static/media/fruitporiumtext.png": "/static/media/fruitporiumtext.cedbb628e6b7e0c096ad.png",
+    "static/media/smallthree.avif": "/static/media/smallthree.6685ae2142abe1bbd847.avif",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.3b174733.css.map": "/static/css/main.3b174733.css.map",
+    "main.818642c3.js.map": "/static/js/main.818642c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b174733.css",
+    "static/js/main.818642c3.js"
+  ]
+}

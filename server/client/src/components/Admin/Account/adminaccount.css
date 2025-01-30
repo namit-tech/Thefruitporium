@@ -1,0 +1,51 @@
+.account-sidebar {
+  width: 78vw;
+  height: 88vh;
+  background: white;
+  color: black;
+  position: relative;
+  left: 10%;
+  top: 10px;
+  padding: 20px;
+  border-radius: 15px;
+  box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.15);
+}
+
+.account-sidebar a {
+  text-decoration: none;
+}
+
+.settings-head {
+  font-size: 2rem;
+  position: relative;
+  left: 20%;
+  top: 70px;
+  padding: 20px 0px;
+}
+
+.account-option {
+  display: flex;
+  align-items: baseline;
+  gap: 20px;
+  font-size: 1.2rem;
+  font-weight: 500;
+  color: black;
+  padding: 15px;
+  width: 15vw;
+  border-radius: 15px;
+}
+
+.account-option p {
+  margin-bottom: 0;
+}
+
+.account-option:hover {
+  background-color: #e5e7eb;
+}
+
+.account-details {
+  position: relative;
+  left: 40%;
+  top: -160px;
+  padding: 20px;
+}

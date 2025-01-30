@@ -1,0 +1,56 @@
+.blurr-backdrop {
+  background-color: rgba(0, 0, 0, 0.099);
+  backdrop-filter: blur(1px); 
+}
+
+.tagline-login {
+  font-weight: 700;
+  font-size: 1.5rem;
+  color: black;
+}
+
+
+.login-text {
+  margin-bottom: 10px;
+  font-size: 1.2rem;
+  color: black;
+}
+
+.login-input{
+  width: 1vw;
+}
+
+.btn-login {
+  margin-top: 10px;
+  width: 9vw;
+  height: 4vh;
+  border-radius: 10px;
+  border: none;
+}
+
+.btn-login:hover {
+  background-color: #709f41;
+  color: white;
+}
+
+.tnc-login {
+  margin-bottom: 0px;
+  font-size: 0.7rem;
+  color: black;
+  font-weight: 500;
+  margin-top: 20px;
+}
+.modal-open .App {
+  filter: blur(5px); /* Adjust the blur amount as needed */
+  transition: filter 0.3s ease-in-out;
+}
+
+
+.grecaptcha-badge {
+  visibility: hidden;
+}
+
+#recaptcha-container {
+  display: none;
+}
+
